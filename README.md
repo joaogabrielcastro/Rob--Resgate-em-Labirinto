@@ -1,3 +1,8 @@
+#Aluno: Brayan Pereira   Ra: 2023100832
+#Aluno: João Gabriel     Ra: 2023100603
+
+
+
 # 🤖 Robô Resgate em Labirinto
 
 Simulação de um robô que percorre um labirinto, localiza uma pessoa (`@`), resgata-a e a leva até a entrada (`E`), exibindo o processo passo a passo no terminal.
