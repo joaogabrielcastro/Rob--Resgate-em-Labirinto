@@ -1,5 +1,5 @@
-# Aluno: Brayan Pereira   RA: 2023100832  
-# Aluno: João Gabriel     RA: 2023100603  
+## Aluno: Brayan Pereira   RA: 2023100832  
+## Aluno: João Gabriel     RA: 2023100603  
 
 ---
 
