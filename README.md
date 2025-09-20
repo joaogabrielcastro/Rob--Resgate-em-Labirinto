@@ -56,3 +56,22 @@ O labirinto é exibido a cada movimento com cores ANSI:
 - Verifique no terminal:
   ```bash
   python --version
+
+## 🖥️ Como Executar no VS Code
+
+### 2. Instalar o VS Code
+- Baixe o Visual Studio Code em [code.visualstudio.com](https://code.visualstudio.com)
+
+### 3. Criar o Projeto
+- Abra o VS Code
+- Crie uma pasta chamada `labirinto`
+- Dentro dela, crie um arquivo chamado `resgate.py`
+- Cole o código completo no arquivo
+
+### 4. Executar o Código
+- Clique com o botão direito no arquivo e selecione **"Run Python File in Terminal"**
+- Ou abra o terminal integrado (Ctrl + `) e digite:
+
+```bash
+python resgate.py
+
