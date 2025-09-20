@@ -1,7 +1,7 @@
-#Aluno: Brayan Pereira   Ra: 2023100832
-#Aluno: João Gabriel     Ra: 2023100603
+# Aluno: Brayan Pereira   RA: 2023100832  
+# Aluno: João Gabriel     RA: 2023100603  
 
-
+---
 
 # 🤖 Robô Resgate em Labirinto
 
@@ -40,12 +40,12 @@ O labirinto é definido como uma matriz de caracteres (`raw_map`) com os seguint
 
 A cada movimento, o labirinto é exibido com cores ANSI:
 
-| Cor       | Significado       |
-|-----------|-------------------|
-| 🟢 Verde   | Robô sem pessoa   |
-| 🔴 Vermelho| Robô com pessoa   |
-| 🔵 Azul    | Caminho de ida    |
-| 🟡 Amarelo | Caminho de volta  |
+| Cor        | Significado       |
+|------------|-------------------|
+| 🟢 Verde    | Robô sem pessoa   |
+| 🔴 Vermelho | Robô com pessoa   |
+| 🔵 Azul     | Caminho de ida    |
+| 🟡 Amarelo  | Caminho de volta  |
 
 ---
 
